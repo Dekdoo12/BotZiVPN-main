@@ -12,7 +12,7 @@ sudo apt autoremove -y
     fi
 
     if [ ! -f /root/BotZiVPN/app.js ]; then
-        git clone https://github.com/arivpnstores/BotZiVPN.git /root/BotZiVPN
+        git clone https://github.com/Dekdoo12/BotZiVPN.git /root/BotZiVPN
     fi
 apt install jq -y
 apt install npm pm2 -y
