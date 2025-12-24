@@ -1257,7 +1257,7 @@ bot.action('service_trial', async (ctx) => {
 
     await ctx.reply(
       `📩 <b>Silakan chat admin untuk request Trial</b>\n\n` +
-      `👤 Admin: <a href="https://t.me/ARI_VPN_STORE">@ARI_VPN_STORE</a>\n` +
+      `👤 Admin: <a href="https://t.me/Kizaru07">@KIZARU_STORE</a>\n` +
       `💬 Kirim pesan: "Minta Trial UDP ZIVPN bang"`,
       { parse_mode: "HTML" }
     );
