@@ -1610,7 +1610,7 @@ await bot.telegram.sendMessage(
 
   } catch (err) {
     console.error('❌ Error handler trial:', err);
-    await ctx.reply('❌ Terjadi kesalahan saat membuat trial. Coba lagi nanti.');
+    await ctx.reply('✉️ Chat admin untuk minta trial @Kizaru07.');
   }
 });
 
